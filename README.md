@@ -1,6 +1,6 @@
  Hi, I’m Ahmed Samy
 #
- I’m interested and passionate about web development
+ I’m interested and passionate about software engineering and web development
 #
  I’m currently learning backend development after I felt comfortable with front-end development
 #
