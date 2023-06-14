@@ -2,7 +2,7 @@
 #
  I’m interested and passionate about software engineering and web development
 #
- I’m a Full Stack developer using MERN stack.
+ I’m a Full Stack developer using MERN stack and Next.js/Typescript
 #
  How to reach me 
 => [My Linkedin](https://www.linkedin.com/in/ahmed-samy-767117242/)
